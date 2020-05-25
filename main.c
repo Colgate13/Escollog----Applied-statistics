@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "funcoes.h"
+#include "eloglibsta.h"
 
 int i;
 int x;
