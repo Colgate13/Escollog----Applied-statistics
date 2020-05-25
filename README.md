@@ -1,4 +1,4 @@
-# Escollog---Estatistica-Aplicada Version BETA v3.0.1.7
+# Escollog---Estatistica-Aplicada Version BETA v4.0
 
 Esse projeto tem o fim de realizar a construção de tabelas para ESTATÍSTICA APLICADA
 
@@ -35,4 +35,4 @@ Esse projeto tem o fim de realizar a construção de tabelas para ESTATÍSTICA A
   <h4>Resultados TABELA</h4>
   <img src=https://user-images.githubusercontent.com/54006467/70852957-8429bc00-1e86-11ea-9ae4-20e0a5d93a8b.png>
 
-Version Mode: v3.0.1.7 -> Versão estavel do software(1° Digito), Concertos de bugs(2° Digito), Alterações no desing(3° Digito) e Mudança na README(3° Digito).
+Version Mode: v4.0 -
