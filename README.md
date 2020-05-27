@@ -2,7 +2,7 @@
 
 Esse projeto tem o fim de realizar a construção de tabelas para ESTATÍSTICA APLICADA
 
-<img src=https://github.com/Colgate13/Escollog----Physics/blob/master/README.md>
+<img src=https://user-images.githubusercontent.com/54006467/83082017-91afb880-a058-11ea-9dfe-577d3e6fa9b2.png>
 
 <b>FUNÇÕES DA BIBLIOTECA "funcoes.h"</b>
 
