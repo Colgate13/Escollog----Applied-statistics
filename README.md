@@ -38,8 +38,9 @@ Esse projeto tem o fim de realizar a construção de tabelas para ESTATÍSTICA A
   <img src=https://user-images.githubusercontent.com/54006467/70852957-8429bc00-1e86-11ea-9ae4-20e0a5d93a8b.png>
 
 # Como usar 
-```
-git clone 
+```GCC INSTALADO
+git clone https://github.com/Colgate13/Escollog----Applied-statistics.git
+gcc -o escollog main.c
 ```
 
 
